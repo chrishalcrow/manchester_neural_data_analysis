@@ -1,0 +1,19 @@
+[project]
+name = "manchester-neural-data-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiohttp>=3.13.5",
+    "jupyter>=1.1.1",
+    "pynapple>=0.11.2",
+    "pyqt5>=5.15.11",
+    "pyqtgraph>=0.14.0",
+    "requests>=2.34.2",
+    "spikeinterface[widgets]>=0.104.3",
+    "spikeinterface-gui>=0.13.1",
+]
+
+[tool.uv.sources]
+spikeinterface = { path = "../spikeinterface" }
