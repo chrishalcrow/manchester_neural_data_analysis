@@ -49,7 +49,7 @@ If you do not have your own data, please download some from DANDI (alternatively
 
 Here is what my `data` folder looks like:
 
-<img src="https://github.com/chrishalcrow/manchester_neural_data_analysis/blob/main/screenshot.png" width="500"/>
+<img src="https://github.com/chrishalcrow/manchester_neural_data_analysis/blob/main/screenshot_of_data.png?raw=true" />
 
 If you'd like to try a different type of data, you could try:
 
