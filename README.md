@@ -41,7 +41,7 @@ This command should open a web browser with a Jupyter Notebook in it.
 
 # Data
 
-I will explore a couple of `SortingAnalyzer` objects using SpikeInterface-GUI. If you'd like to follow along interactively, please download the files in this Zenodo repository: 
+I will explore a couple of `SortingAnalyzer` objects using SpikeInterface-GUI. If you'd like to follow along interactively, please download the files in this Zenodo repository: https://zenodo.org/records/20668438 
 
 If you have some ephys data you'd like to spike sort, please bring it on the device you are going to use. I believe you'll get the most out of the workshop by trying to run SpikeInterface on your own data.
 
