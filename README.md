@@ -2,6 +2,8 @@
 
 This is the github repo for the SpikeInterface sessions of the Neural Data Analysis Workshop at The University of Manchester.
 
+Watch a video of me cloning this repo, installing software, downloading data and working through the "core" of the workshop notebook here: https://youtu.be/OaQqR2aWPUI?si=BLDSv03F1cSzhiGX
+
 Please read this page and try to install the software BEFORE the workshop. It will make life easier for everyone.
 
 There will be two SpikeInterface sessions. The first will be a theoretical overview of spike sorting and an introdution to what SpikeInterface is. At the end of this session, we will try and ensure that everyone can get some version of SpikeInterface installed on their machine. Note: if you'd like to try the software out, please bring your own laptop/system!
