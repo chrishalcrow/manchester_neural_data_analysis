@@ -3,7 +3,7 @@ name = "manchester-neural-data-analysis"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11,<3.14"
 dependencies = [
     "aiohttp>=3.13.5",
     "jupyter>=1.1.1",
@@ -15,5 +15,3 @@ dependencies = [
     "spikeinterface-gui  @ git+https://github.com/SpikeInterface/spikeinterface-gui.git",
 ]
 
-[tool.uv.sources]
-spikeinterface = { path = "../spikeinterface" }
